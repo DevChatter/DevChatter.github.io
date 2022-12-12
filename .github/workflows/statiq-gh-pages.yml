@@ -35,7 +35,7 @@ jobs:
         uses: actions/configure-pages@v2
 
       - name: Build with Statiq
-        run: dotnet run
+        run: dotnet run -l Debug
 
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v1
