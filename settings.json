@@ -1,5 +1,0 @@
-{
-    "GitHubOwner": "DevChatter",
-    "GitHubName": "DevChatter.github.io",
-    "GitHubToken": "=> Config.FromSetting<string>(\"GITHUB_TOKEN\")"
-}
