@@ -1,7 +1,8 @@
-Title: Welcome to DevChatter
+NavbarTitle: About
+Order: 1
+Title: About DevChatter
+Description: The DevChatter Site
 ---
-
-# Welcome to the DevChatter Home Page
 
 Greeting and welcome!
 
