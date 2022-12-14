@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Statiq.Web" Version="1.0.0-beta.51" />
+    <PackageReference Include="Statiq.YouTube" Version="1.0.0-beta.63" />
   </ItemGroup>
 
 </Project>
